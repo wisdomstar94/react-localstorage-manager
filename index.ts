@@ -1,0 +1,1 @@
+export * from './src/hooks/use-localstorage-manager/use-localstorage-manager.hook';
